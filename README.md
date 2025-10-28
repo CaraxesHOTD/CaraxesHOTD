@@ -14,7 +14,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 ---
 
 
-## Más Detalles 🗒️
+## Habilidades 👩🏻‍💻
 
 
 ### Lenguajes de Programación y Scripting
