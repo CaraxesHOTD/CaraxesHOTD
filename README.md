@@ -1,7 +1,7 @@
 # ¡Hola! Soy CaraxesHOTD 🐍
 
-<!-- Opcional: Puedes crear un banner con un tema de ciberseguridad, matrix, código binario, etc. -->
-![Banner de GitHub](https://github.com/TU_USUARIO/TU_USUARIO/blob/main/cybersec-banner.png)
+![Banner de GitHub](https://github.com/user-attachments/assets/5d03b184-0a60-4eb1-8d1b-d5e32f59afdb)
+
 
 ## Sobre mí 🔎
 Soy un Red Teamer y Pentester apasionado por la simulación de ataques realistas y la identificación de vulnerabilidades críticas. Mi objetivo es pensar como un adversario para ayudar a las organizaciones a fortalecer sus defensas antes de que un atacante real lo haga.
