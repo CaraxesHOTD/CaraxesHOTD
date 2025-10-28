@@ -10,30 +10,42 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 
 ---
 
-## Lenguajes y Herramientas de Seguridad 🛠️
+## Más Detalles 🗒️
 
 ### Lenguajes de Programación y Scripting
-![Lenguajes](https://skillicons.dev/icons?i=py,bash,powershell,js,sql,c,php) <!-- Python, Bash y PowerShell son clave. C/C++ para exploit dev. JS/SQL/PHP para web. -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,js,postgres,php,html" alt="Lenguajes de Programación y Scripting"/>
+</div>
 
-### Herramientas y Frameworks más usados
-![Herramientas](https://skillicons.dev/icons?i=metasploit,burp,nmap,linux,docker,git,vscode,postman,aws,azure) <!-- Metasploit, Burp, Nmap son clásicos. Docker para montar labs. -->
+### Sistemas Operativos más usados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali" alt="Sistemas Operativos más usados"/>
+</div>
 
-> **Nota:** El ecosistema de herramientas de seguridad es muy amplio. Algunas de mis favoritas que no tienen icono aquí son: **Cobalt Strike, Covenant, BloodHound, Ghidra, Wireshark, John the Ripper, Hashcat y Aircrack-ng.**
+### Servidores más usados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,nginx,cloudflare" alt="Servidores más usados"/>
+</div>
+
+### Plataformas más usadas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,docker," alt="Plataformas más usadas"/>
+</div>
 
 ---
 
 ## Estadísticas de GitHub 📊
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/CaraxesHOTD">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaraxesHOTD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaraxesHOTD&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaraxesHOTD&theme=dark" alt="GitHub Streak"/>
   </a>
 </div>
 
