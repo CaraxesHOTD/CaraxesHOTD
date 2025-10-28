@@ -1,6 +1,8 @@
 # ¡Hola! Soy CaraxesHOTD 🐍
 
-![Banner de GitHub](https://github.com/user-attachments/assets/5d03b184-0a60-4eb1-8d1b-d5e32f59afdb)
+<img width="1024" height="576" alt="kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview" src="https://github.com/user-attachments/assets/117b1123-e314-4feb-9564-a3ed26938708" />
+
+
 
 
 ## Sobre mí 🔎
@@ -29,24 +31,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 
 ### Plataformas más usadas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,docker," alt="Plataformas más usadas"/>
-</div>
-
----
-
-## Estadísticas de GitHub 📊
-
-<div align="center">
-  <a href="https://github.com/CaraxesHOTD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaraxesHOTD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaraxesHOTD&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaraxesHOTD&theme=dark" alt="GitHub Streak"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=github,git,docker" alt="Plataformas más usadas"/>
 </div>
 
 ---
