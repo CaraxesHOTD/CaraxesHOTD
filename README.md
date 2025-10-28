@@ -17,7 +17,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 ## Habilidades 👩🏻‍💻
 
 
-### Lenguajes de Programación y Scripting
+#### Lenguajes de Programación y Scripting
 
 
 <div align="center">
@@ -25,7 +25,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 </div>
 
 
-### Sistemas Operativos más usados
+#### Sistemas Operativos más usados
 
 
 <div align="center">
@@ -33,7 +33,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 </div>
 
 
-### Servidores más usados
+#### Servidores más usados
 
 
 <div align="center">
@@ -41,7 +41,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 </div>
 
 
-### Plataformas más usadas
+#### Plataformas más usadas
 
 
 <div align="center">
