@@ -59,10 +59,11 @@ Siempre estoy abierto a discutir técnicas de ataque, colaborar en herramientas 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tu_usuario)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00?style=for-the-badge&logo=HackTheBox&logoColor=black)](https://app.hackthebox.com/profile/TU_PERFIL)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C36?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/TU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%239FEF00?style=for-the-badge&logo=HackTheBox&logoColor=black)]()
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C36?style=for-the-badge&logo=TryHackMe&logoColor=white)]()
+[![TryHackMe](https://img.shields.io/badge/PortSwigger.-%23212C36?style=for-the-badge&logo=PortSwigger&logoColor=orange)]()
 
 </div>
