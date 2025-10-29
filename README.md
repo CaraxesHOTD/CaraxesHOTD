@@ -21,7 +21,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,js,postgres,php,html" alt="Lenguajes de Programación y Scripting"/>
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,java,js,react,postgres,php,html" alt="Lenguajes de Programación y Scripting"/>
 </div>
 
 
@@ -37,7 +37,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,nginx,cloudflare" alt="Servidores más usados"/>
+  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,aws,azure" alt="Servidores más usados"/>
 </div>
 
 
@@ -45,7 +45,7 @@ Disfruto rompiendo sistemas para hacerlos más seguros, desde aplicaciones web h
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,docker" alt="Plataformas más usadas"/>
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker,netlify,supabase,vercel,obsidian,wordpress,codepen" alt="Plataformas más usadas"/>
 </div>
 
 
