@@ -1,6 +1,7 @@
 # ¡Hola! Soy CaraxesHOTD 🐉
 
-<img width="1024" height="576" alt="kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview" src="https://github.com/user-attachments/assets/117b1123-e314-4feb-9564-a3ed26938708" />
+<img width="1536" height="1024" alt="0d2e3c7c-e03a-4baf-9617-4ca2b07ae9f4" src="https://github.com/user-attachments/assets/eec03fb2-964a-4ce7-9ccc-1e2ee4cfb200" />
+
 
 
 ## Sobre mí 🔎
