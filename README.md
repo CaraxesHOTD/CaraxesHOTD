@@ -1,6 +1,7 @@
 # ¡Hola! Soy CaraxesHOTD 🐉
 
-<img width="1536" height="1024" alt="0d2e3c7c-e03a-4baf-9617-4ca2b07ae9f4" src="https://github.com/user-attachments/assets/eec03fb2-964a-4ce7-9ccc-1e2ee4cfb200" />
+
+<img width="846" height="332" alt="Kali_Linux_Red_Banner_846x332" src="https://github.com/user-attachments/assets/dcd18987-512e-4ab6-94cb-4dd987ab6262" />
 
 
 
